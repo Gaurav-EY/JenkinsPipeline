@@ -6,6 +6,7 @@ import org.junit.Test;
 
 public class JenkinsCalculatorTest {
 
+	//This is a Add number Test Case
 	@Test
 	public void addNumberstest() {
 		JenkinsCalculator calc=new JenkinsCalculator();
